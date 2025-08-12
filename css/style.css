@@ -767,6 +767,11 @@ a:hover {
     padding: 60px 0 0;
 }
 
+.footer a {
+    color: var(--white);
+    text-decoration: none;
+}
+
 .footer-logo {
     width: 200px;
     margin-bottom: 20px;
